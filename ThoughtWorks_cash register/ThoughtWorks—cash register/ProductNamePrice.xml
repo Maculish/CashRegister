@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATALOG>
+  <product>
+    <name>可口可乐</name>
+    <price>3.00</price>
+    <code>ITEM000005</code>
+  </product>
+  <product>
+    <name>羽毛球</name>
+    <price>1.00</price>
+    <code>ITEM000005</code>
+  </product>
+  <product>
+    <name>苹果</name>
+    <price>5.50</price>
+    <code>ITEM000005</code>
+  </product>
+</CATALOG>

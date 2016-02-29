@@ -1,0 +1,1 @@
+F:\C#面试题\ThoughtWorks—cash register\ThoughtWorks—cash register\bin\Debug\ThoughtWorks—cash register.exe.config
