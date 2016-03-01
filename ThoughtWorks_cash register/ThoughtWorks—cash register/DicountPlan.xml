@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CATALOG>
+  <plan id="001" itemcount="2" freeitem="1" discountrate="1.00">满二送一</plan>
+  <plan id="002" itemcount="0" freeitem="0" discountrate="0.95">95折</plan>
+  <plan id="003">某件商品满多少减免多少金额</plan>
+  <plan id="004">所有商品满多少减免多少金额</plan>
+  <plan id="004">所有商品满多少打多少折</plan>
+</CATALOG>

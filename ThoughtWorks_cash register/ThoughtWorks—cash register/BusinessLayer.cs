@@ -11,5 +11,18 @@ namespace ThoughtWorks_cash_register
     /// </summary>
     class BusinessLayer
     {
+        /// <summary>
+        /// 价格计算
+        /// </summary>
+        /// <returns></returns>
+        public double MoneyCounts() {
+            return 0;
+        }
+
+        //计算每种商品的数量
+
+        //计算每种商品的折扣
+
+        //计算每种商品的原价
     }
 }
